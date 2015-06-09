@@ -25,5 +25,3 @@ Patches/Features
 * bstack
 * runorraise
 
-# DWM
-# DWM
